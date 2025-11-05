@@ -681,7 +681,7 @@
         {
          "columns":8,
          "firstgid":5291,
-         "image":"..\/..\/Sprite-0001.gif",
+         "image":"tilesets\/Sprite-0001.gif",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
